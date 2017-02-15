@@ -1,2 +1,2 @@
 # Algorithms
-My solutions to various algorithmic problems.
+My solutions of various algorithmic problems.
